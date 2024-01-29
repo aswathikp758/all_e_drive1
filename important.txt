@@ -1,0 +1,4 @@
+many to many relation link
+
+
+https://www.larashout.com/laravel-eloquent-many-to-many-relationship
